@@ -24,12 +24,14 @@
  
  ## React Icons
   
-    [react icons](https://react-icons.github.io/react-icons/)
+    [react icons](https://react-icons.github.io/react-icons/).
     
 
 
 # Changes regarding the course design:
 
     New CSS variables were created, changing the colors of the site, texts, icons and buttons;
+    
+    'title2' class created for design questions.
    
    
